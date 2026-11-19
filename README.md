@@ -5,7 +5,7 @@
 - 「如果你觉得我的主页很丑很“ai”。你是对的，原因上面说了」
 ---
 
-## 🙋 关于我
+## 关于我
 
 - 🔭 **目前状态**：生物工程专业在校学生，课余时间喜欢研究电脑硬件和软件
 - 👀 **学习方向**：Web 前端 / Python / 操作系统
@@ -15,16 +15,16 @@
 
 ---
 
-## 🛠 技能
+## 技能
 
 | 类别 | 内容 |
 | :-- | :-- |
-| 💻 语言 | ![Python](https://img.shields.io/badge/Python-学习ing-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-学习ing-A8B9CC?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-学习中-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| 🌐 前端 | HTML · CSS · （Vue / React 排队中…） |
-| 🗄 其他 | Git / GitHub · Markdown · Linux 入门 |
-| 🧠 软技能 | 查文档、读报错、向AI提问 🔍 |
+| 语言 | ![Python](https://img.shields.io/badge/Python-学习ing-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-学习ing-A8B9CC?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-学习中-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 前端 | HTML · CSS · （Vue / React 排队中…） |
+| 其他 | Git / GitHub · Markdown · Linux 入门 |
+| 软技能 | 查文档、读报错、向AI提问 🔍 |
 
-> 💡 上面的标签只是当前进度，我会定期更新。如果你有更推荐的学习路线，欢迎提 issue 或留言告诉我～
+> 上面的标签只是当前进度，我会定期更新。如果你有更推荐的学习路线，欢迎提 issue 或留言告诉我～
 
 ---
 
